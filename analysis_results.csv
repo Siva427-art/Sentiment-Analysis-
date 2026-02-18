@@ -1,0 +1,16 @@
+text,source,sentiment,emotion
+ it makes me so happy!,amazon,positive,joy
+,amazon,neutral,none
+,amazon,neutral,none
+,amazon,neutral,none
+ nothing special.,amazon,negative,none
+ it makes me so happy!,social,positive,joy
+,social,neutral,none
+,social,neutral,none
+,social,neutral,none
+ nothing special.,social,negative,none
+ it makes me so happy!,news,positive,joy
+,news,neutral,none
+,news,neutral,none
+,news,neutral,none
+ nothing special.,news,negative,none
